@@ -7,6 +7,8 @@ How to use it ?
 2) bash test.sh
 3) Don't forget to allow the execution of the script : chmod 777 test.sh
 
+TESTED ON LINUX UBUNTU ONLY
+
 What you wan expect about this tester.
 
 The tester is certainly full of bugs, but it tests the simples use cases (min int, max int, double, and sorted stack) and other cases for stack of 3, 5, 100, 500 elements. It makes an average for theses tests and display the result if everything was ok with the checker.
