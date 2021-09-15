@@ -3,9 +3,9 @@
 cd ..
 make re > /dev/null 2>&1
 make clean > /dev/null 2>&1
-cd Tests/traces
-rm -rf *
-cd ..
+cd push_swap_simple_test
+rm -rf traces
+mkdir traces
 
 TOTALERR=0
 echo -e '\033[0mCheck that your programm Diplay Error when it is needed\n'
