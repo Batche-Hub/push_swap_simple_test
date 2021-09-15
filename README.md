@@ -15,7 +15,9 @@ It also display the min moves made by the programm, and count how many time the 
 
 It checks if there is leaks with valgrind.
 
-That's all. The test is certainly not complete, feel free to change the code, dowload and made your own !
+If a test fails, you can check wich values caused the fail on the traces directory. There is one file per / error / stack size.
+
+That's all. The test is certainly not complete, feel free to change the code, download and made your own !
 
 A part of the work was already made by jgoncalv and another one that I forgot the name. Sorry !
 
