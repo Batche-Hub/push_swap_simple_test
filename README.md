@@ -13,9 +13,9 @@ The tester is certainly full of bugs, but it tests the simples use cases (min in
 
 It also display the min moves made by the programm, and count how many time the programm did his work under a certain limits (based on the correction).
 
-It also checks if there is leaks with valgrind.
+It checks if there is leaks with valgrind.
 
-That's all.
+That's all. The test is certainly not complete, feel free to change the code, dowload and made your own !
 
 A part of the work was already made by jgoncalv and another one that I forgot the name. Sorry !
 
