@@ -18,3 +18,8 @@ It also checks if there is leaks with valgrind.
 That's all.
 
 A part of the work was already made by jgoncalv and another one that I forgot the name. Sorry !
+
+
+![alt text](https://ibb.co/QCJLqBB)
+![alt text](https://ibb.co/gMbthQS)
+![alt text](https://ibb.co/vLHjxhY)
