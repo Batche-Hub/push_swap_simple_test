@@ -21,7 +21,7 @@ If a test fails, you can check wich values caused the fail on the traces directo
 
 That's all. The test is certainly not complete, feel free to change the code, download and made your own !
 
-A part of the work was already made by jgoncalv and another one that I forgot the name. Sorry !
+A part of the work was already made by jgoncalv and tharchen for the perl script. Thx to them !
 
 
 ![alt text](https://i.ibb.co/nnw9V22/Capture-d-cran-de-2021-09-15-14-53-27.png)
